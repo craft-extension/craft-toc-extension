@@ -1,0 +1,10 @@
+{
+  "id": "com.xheldon.extension-toc-craft",
+  "name": "Craft TOC 插件",
+  "fileName": "craft-toc-extension",
+  "author" : "Xheldon",
+  "author-email" : "c1006044256@gmail.com",
+  "description" : "Craft TOC 插件",
+  "api": "0.1.0",
+  "main": "index.html"
+}
